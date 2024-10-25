@@ -41,7 +41,7 @@
 
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Norhan+Nageh!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Norhan+Nageh!;I'm+a+software+engineer|Flutter Developer;Welcome+to+my+profile!" style="color:mix" />
 </p>
 
 
