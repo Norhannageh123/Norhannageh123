@@ -27,9 +27,18 @@
   🛠 Tech Stack:
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Object Oriented Programming" src="https://img.shields.io/badge/Object%20Oriented%20Programming-EE4C2C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-00BFFF?style=flat-square&logo=dart&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52B2?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-2B7BB9?style=flat-square&logo=api&logoColor=white" />
+  <img alt="State Management" src="https://img.shields.io/badge/State%20Management-FF6F61?style=flat-square&logo=state-management&logoColor=white" />
+  <img alt="Clean Code" src="https://img.shields.io/badge/Clean%20Code-23CBA7?style=flat-square&logo=clean-code&logoColor=white" />
+  <img alt="SOLID" src="https://img.shields.io/badge/SOLID-FF6F61?style=flat-square&logo=solid&logoColor=white" />
+  <img alt="Design Patterns" src="https://img.shields.io/badge/Design%20Patterns-FF6347?style=flat-square&logo=design-patterns&logoColor=white" />
   <img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-FF6B6B?style=flat-square&logo=treehouse&logoColor=white" />
   <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-0081CB?style=flat-square&logo=code&logoColor=white" />
-  
+
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Norhan+Nageh!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
