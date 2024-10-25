@@ -5,7 +5,7 @@
 <br/>
 <p align="center">
 <h3>🚀 About Me</h3> 
-<h4> I'm Norhan Nageh from Egypt. I'm a Mobile Application Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm Student and Still learning. </h4>
+<h4> I'm Norhan Nageh from Egypt. I'm a Mobile Application Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. I 'm graduted from faculty of computer and information technology Luxor University , major of computer science, and I am a junior Flutter Developer. </h4>
 
 
   📫 Connect with me: 
